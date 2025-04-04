@@ -1,4 +1,10 @@
 aDate:11 March 2025
+
+3. What is the purpose of git add -p?
+A) Automatically commits changes
+B) Allows interactive staging of changes
+C) Pushes changes to the remote repository
+D) Removes files from the staging area
 -------------------
 1. What does git add do?
 A) Automatically commits changes
