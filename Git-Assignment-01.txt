@@ -55,6 +55,7 @@ A) git add . adds all changes in the current directory, while git add -A stages 
 B) They are completely identical
 C) git add . adds only new files, while git add -A stages everything
 D) git add -A ignores deleted files
+D) The commit will be empty
 -------------------
 10. What happens if you forget to run git add before committing?
 A) Git automatically stages and commits changes
