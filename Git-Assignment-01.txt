@@ -31,6 +31,7 @@ A) git add .
 B) git add -A
 C) git add -u
 D) Both B and C
+D) Both B and C
 -------------------
 6. What does git add -u do?
 A) Stages only modified and deleted files
