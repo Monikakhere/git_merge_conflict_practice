@@ -5,6 +5,9 @@ A) Automatically commits changes
 B) Allows interactive staging of changes
 C) Pushes changes to the remote repository
 D) Removes files from the staging area
+D) Removes files from the staging area
+C) Pushes changes to the remote repository
+D) Removes files from the staging area
 -------------------
 1. What does git add do?
 A) Automatically commits changes
