@@ -61,4 +61,6 @@ A) Git automatically stages and commits changes
 B) Only previously staged changes will be committed
 C) Git throws an error
 D) The commit will be empty
+C) Git throws an error
+D) The commit will be empty
 ===========================================
